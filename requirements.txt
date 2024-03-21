@@ -1,4 +1,4 @@
 Flask==3.0.2
 numpy==1.26.4
 pillow==10.2.0
-tensorflow-gpu==2.16.1
+tensorflow-gpu
